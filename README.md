@@ -1,3 +1,8 @@
+#About Project
+I Completed An Internship In Dcodetech of 6 Weeks in which i learned about web scraping.
+i used python programming language and MySQL  and Jupyter notebook softwares to make this projects.
+This projects is approved by Dcodetech Organisation.
+
 # Web-Scraping
 
 Web scraping is the process of extracting data from websites. It involves fetching HTML content from web pages and then parsing it to extract the desired information. Python is a popular programming language for web scraping due to its simplicity and a variety of powerful libraries such as BeautifulSoup and Scrapy.
